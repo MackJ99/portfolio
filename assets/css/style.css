@@ -35,12 +35,23 @@ h6 {
 h2 {
   color: #292929;
   font-weight: 600;
+  font-family: "Playwrite BE VLG", cursive;
+ 
+}
+
+h3{
+  color: #292929;
+  font-weight: 600;
+  font-size: medium;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
 }
 
 h4 {
   color: #292929;
   font-size: 14px;
   font-weight: 600;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 a {
@@ -188,7 +199,7 @@ p {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
-  background-color: #fff;
+  background-color: #b8a07e;
   top: -100%;
   box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.08);
 }
@@ -210,7 +221,7 @@ p {
 }
 
 #header .logo a {
-  color: #644f4f;
+  color: #84e40e;
   font-family: fantasy;
   font-style: oblique;
   text-align: left;
@@ -273,7 +284,7 @@ p {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #b8a07e;
+  color: #84e40e;
 }
 
 .navbar .dropdown ul {
@@ -659,7 +670,7 @@ p {
 #portfolio {
   position: relative;
   padding-bottom: 50px;
-  background: #f7f7f7;
+  background: linear-gradient(to left,#f7f7f7, #b8a07e);
 }
 
 #portfolio #portfolio-flters {
@@ -934,6 +945,14 @@ p {
 /*-----------------------------------------------------------------------------------*/
 #journal-blog {
   padding-top: 140px;
+}
+
+#best-video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto; /* Center the image */
+  
 }
 
 /* main content */
