@@ -701,7 +701,7 @@ p {
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: #C0C0C0;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -744,12 +744,12 @@ p {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: #111111;
 }
 
 #portfolio .portfolio-item .portfolio-info .preview-link:hover,
 #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #cab89f;
+  color: #c0c0c0;
 }
 
 #portfolio .portfolio-item .portfolio-info .details-link {
@@ -905,6 +905,7 @@ p {
   margin: 0 auto;
   padding: 0;
   text-align: center;
+  
   
 }
 
