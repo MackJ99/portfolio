@@ -35,7 +35,7 @@ h6 {
 h2 {
   color: #ffffff;
   font-weight: 600;
-  font-family: "Playwrite BE VLG", cursive;
+  font-family: "Kalnia Glaze", serif;
  
 }
 
@@ -107,12 +107,14 @@ p {
 
 .section-title {
   margin-bottom: 70px;
+  
 }
 
 .section-title h2 {
   font-size: 25px;
   letter-spacing: 2px;
   text-transform: uppercase;
+  font-family: "Kalnia Glaze", serif;
 }
 
 .form-control {
@@ -783,11 +785,11 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid #c0c0c0;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: #111;
 }
 
 .portfolio-details .portfolio-info {
@@ -821,6 +823,7 @@ p {
   font-size: 26px;
   font-weight: 700;
   margin-bottom: 20px;
+  
 }
 
 .portfolio-details .portfolio-description p {
